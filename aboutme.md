@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: How to contact me
+subtitle: What I'm doing
 ---
 
-:briefcase: Currently working for SambaSafety.
+- Currently working for SambaSafety.
