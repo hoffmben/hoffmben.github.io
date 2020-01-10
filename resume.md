@@ -1,5 +1,5 @@
 ---
-title: "Resume"
+title: Resume
 date: 2020-01-09
 layout: pdf
 ---
