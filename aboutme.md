@@ -21,4 +21,10 @@ My favorite terrain is challenging technical. I had the amazing opportunity to
 mountain bike in Peru with trails starting at 14,500 ft. It was experience that made me realize
 how much I've progressed as a mountain biker.
 </li>
+<br>
+<li><span class="fa-li"><i class="fa fa-user-graduate"></i></span>
+Graduated from the University of Colorado Denver with a degree in Mathematics.
+I additionally hold two minors; Physics and Computer Science. My mathematics
+emphasis is in applied mathematics namely statistics. 
+</li>
 </ul>
