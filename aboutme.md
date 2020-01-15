@@ -19,6 +19,5 @@ I've mountain biked all across Colorado. Even completed a self supported several
 My favorite terrain is challenging technical. I had the amazing opportunity to
 mountain bike in Peru with trails starting at 14,500 ft. It was experience that made me realize
 how much I've progressed as a mountain biker.
-</br>
 </li>
 </ul>
