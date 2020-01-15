@@ -3,11 +3,11 @@ layout: page
 title: About Me
 ---
 
-<ul class="fa-ul" style="list-style-position: outside; margin-left: 1em;">
-<li><i class="fa fa-briefcase"></i> 
+<ul class="fa-ul">
+<li style="list-style-position: outside; margin-left: 1em;"><i class="fa fa-briefcase"></i> 
 I'm currently working for SambaSafety. They aggregate 
-	and I analyse. My projects have ranged from deep association analysis
-	to creating an ingestion pipleline for NOAA weather data. Most days
-	I'm neck deep in SQL or R.
+and I analyse. My projects have ranged from deep association analysis
+to creating an ingestion pipleline for NOAA weather data. Most days
+I'm neck deep in SQL or R.
 </li>
 </ul>
