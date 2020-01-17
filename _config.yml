@@ -22,6 +22,7 @@ description: A place for projects and contact info
 navbar-links:
   About Me: "aboutme"
   Resume: "resume"
+  Schedule a Meeting: #"https://calendly.com/hoffmben/30min"
   #  Resources:
   #    - Beautiful Jekyll: #"http://deanattali.com/beautiful-jekyll/"
   #    - Learn markdown: #"http://www.markdowntutorial.com/"
