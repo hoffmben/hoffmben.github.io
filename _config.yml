@@ -23,10 +23,8 @@ navbar-links:
   About Me: "aboutme"
   Resume: "resume"
   Schedule a Meeting: "https://calendly.com/hoffmben/30min"
-  #  Resources:
-  #    - Beautiful Jekyll: #"http://deanattali.com/beautiful-jekyll/"
-  #    - Learn markdown: #"http://www.markdowntutorial.com/"
-      #  Author's home: #"http://deanattali.com"
+  Examples:
+    - Employee Attrition: "https://examples.benhoffman.net/employee_attrition"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
