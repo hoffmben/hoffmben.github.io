@@ -22,6 +22,7 @@ description: A place for projects and contact info
 navbar-links:
   About Me: "aboutme"
   Examples:
+    - Lifeime Value: "https://examples.benhoffman.net/lifetime_value"
     - Employee Attrition: "https://examples.benhoffman.net/employee_attrition"
   Resume: "resume"
   Schedule a Meeting: "https://calendly.com/hoffmben/30min"
