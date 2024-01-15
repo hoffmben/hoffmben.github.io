@@ -33,7 +33,7 @@ I still root for R and believe it's dataframe implementation is far more pleasan
 purpose language for ETL it is not. I'm currently especially skilled in event based pipelines using Python,
 AWS, terraform, and Docker.
 <br>
-My research topics have moved strongly towards opensource LLMs. I believe these hold substantial promise 
+My research topics have moved strongly towards open source LLMs. I believe these hold substantial promise 
 for democratizing AI. Currently focused on the SDLC and productizing of LLMs.
 </li>
 <br>
