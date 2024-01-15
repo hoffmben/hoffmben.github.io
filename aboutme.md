@@ -16,6 +16,7 @@ My hobbies include <a href="https://benhoffman.net/backpacking">backpacking</a>,
 the occasional walk with my <a href="https://benhoffman.net/cat">cat</a>,
 and reading.
 <br>
+<br>
 Backpacking has been my major passion lately. I find the resourcefulness and both mental and physical endurance backpacking requires thrilling! It's provided so many amazing moments and challenges to overcome it's become a major source of personal developmemt and enjoyment. One of the most simple and 
 impactful moments was cracking a bottle cap and having to adapt my entire days plans.
 </li>
