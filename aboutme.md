@@ -28,7 +28,7 @@ emphasis is in applied mathematics namely statistics.
 <br>
 <li><span class="fa-li"><i class="fa fa-code" aria-hidden="true"></i></span>
 With my day to day more data engineering and less analysis, my language of choice has moved to Python.
-I still root for R and believe it's dataframe implementation is far more pleasant than Pandas, but a general
+I still root for R and believe its dataframe implementation is far more pleasant than Pandas, but a general
 purpose language for ETL it is not. I'm currently especially skilled in event based pipelines using Python,
 AWS, terraform, and Docker.
 <br>
