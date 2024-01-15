@@ -13,7 +13,6 @@ ELT pipeline from infrustructure to pipeline development. Certified in Databrick
 <br>
 <li><span class="fa-li"><i class="fa fa-bicycle" aria-hidden="true"></i></span>
 My hobbies include <a href="https://benhoffman.net/backpacking">backpacking</a>,
-<a href="https://benhoffman.net/mountain_biking">mountain biking</a>,
 the occasional walk with my <a href="https://benhoffman.net/cat">cat</a>,
 and reading.
 <br>
