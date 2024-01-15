@@ -6,9 +6,9 @@ title: About Me
 <ul class="fa-ul">
 <li><span class="fa-li"><i class="fa fa-briefcase" aria-hidden="true"></i></span> 
 I'm currently working for the data consultancy, Data Clymer. My focus has been
-on providing scalabe and event based ELT solutions using PySpark, AWS, AWS Lambda, and
+on providing scalable and event based ELT solutions using PySpark, AWS, AWS Lambda, and
 terraform. I work with clients to ensure the solutions are cost effective across the whole
-ELT pipeline from infrustructure to pipeline development. Certified in Databricks and Matillion.
+ELT pipeline from infrastructure to pipeline development. Certified in Databricks and Matillion.
 </li>
 <br>
 <li><span class="fa-li"><i class="fa fa-bicycle" aria-hidden="true"></i></span>
@@ -16,7 +16,7 @@ My hobbies include <a href="https://benhoffman.net/backpacking">backpacking</a>,
 the occasional walk with my <a href="https://benhoffman.net/cat">cat</a>,
 and reading.
 <br>
-Backpacking has been my major passion lately. I find the resourcefulness and both mental and physical endurance backpacking requires thrilling! It's provided so many amazing moments and challenges to overcome it's become a major source of personal developmemt and enjoyment. One of the most simple and 
+Backpacking has been my major passion lately. I find the resourcefulness and both mental and physical endurance backpacking requires thrilling! It's provided so many amazing moments and challenges to overcome it's become a major source of personal development and enjoyment. One of the most simple and 
 impactful moments was cracking a bottle cap and having to adapt my entire days plans.
 </li>
 <br>
