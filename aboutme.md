@@ -5,21 +5,20 @@ title: About Me
 
 <ul class="fa-ul">
 <li><span class="fa-li"><i class="fa fa-briefcase" aria-hidden="true"></i></span> 
-I'm currently working for SambaSafety. They aggregate 
-and I analyse. My projects have ranged from deep association analysis
-to creating an ingestion pipleline for NOAA weather data. Most days
-I'm neck deep in SQL or R.
+I'm currently working for the data consultancy, Data Clymer. My focus has been
+on providing scalabe and event based ELT solutions using PySpark, AWS, AWS Lambda, and
+terraform. I work with clients to ensure the solutions are cost effective across the whole
+ELT pipeline from infrustructure to pipeline development. Certified in Databricks and Matillion.
 </li>
 <br>
 <li><span class="fa-li"><i class="fa fa-bicycle" aria-hidden="true"></i></span>
-My hobbies include <a href="https://benhoffman.net/mountain_biking">mountain biking</a>,
+My hobbies include <a href="https://benhoffman.net/backpacking">backpacking</a>,
+<a href="https://benhoffman.net/mountain_biking">mountain biking</a>,
 the occasional walk with my <a href="https://benhoffman.net/cat">cat</a>,
 and reading.
 <br>
-I've mountain biked all across Colorado. Even completed a self supported several day bike packing trip.
-My favorite terrain is challenging technical. I had the amazing opportunity to
-mountain bike in Peru with trails starting at 14,500 ft. It was experience that made me realize
-how much I've progressed as a mountain biker.
+Backpacking has been my major passion lately. I find the resourcefulness (understanding the importance a simple bottlecap can have),
+and both mental and physical endurance backpacking requires thrilling! It's provided so many amazing moments and challenges to overcome it's become a major source of personal developmemt and enjoyment.
 </li>
 <br>
 <li><span class="fa-li"><i class="fa fa-university" aria-hidden="true"></i></span>
@@ -29,11 +28,13 @@ emphasis is in applied mathematics namely statistics.
 </li>
 <br>
 <li><span class="fa-li"><i class="fa fa-code" aria-hidden="true"></i></span>
-My favorite language to code in is R. There's so many great libraries and tools
-that allow me to think analysis and audience first it's become my language of choice
-for many projects. Lately, I've been exploring the potential of 
-<a href="https://shiny.rstudio.com/">Shiny</a> and <a href="https://www.docker.com/">Docker</a>
-for dependancy management and scaling data science web apps.
+With my day to day more data engineering and less analysis, my language of choice has moved to Python.
+I still root for R and believe it's dataframe implementation is far more pleasant than Pandas, but a general
+purpose language for ETL it is not. I'm currently, especially skilled in event based pipelines, using Python,
+AWS, terraform, and Docker.
+<br>
+My research topics have moved strongly towards opensource LLMs. I believe these hold substantial promise 
+for democratizing AI. Currently focused on the SDLC and productizing of LLMs.
 </li>
 <br>
 <li><span class="fa-li"><i class="fa fa-handshake-o" aria-hidden="true"></i></span>
