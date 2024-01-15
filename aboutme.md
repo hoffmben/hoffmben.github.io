@@ -17,8 +17,8 @@ My hobbies include <a href="https://benhoffman.net/backpacking">backpacking</a>,
 the occasional walk with my <a href="https://benhoffman.net/cat">cat</a>,
 and reading.
 <br>
-Backpacking has been my major passion lately. I find the resourcefulness (understanding the importance a simple bottlecap can have),
-and both mental and physical endurance backpacking requires thrilling! It's provided so many amazing moments and challenges to overcome it's become a major source of personal developmemt and enjoyment.
+Backpacking has been my major passion lately. I find the resourcefulness and both mental and physical endurance backpacking requires thrilling! It's provided so many amazing moments and challenges to overcome it's become a major source of personal developmemt and enjoyment. One of the most simple and 
+impactful moments was cracking a bottle cap and having to adapt my entire days plans.
 </li>
 <br>
 <li><span class="fa-li"><i class="fa fa-university" aria-hidden="true"></i></span>
@@ -30,7 +30,7 @@ emphasis is in applied mathematics namely statistics.
 <li><span class="fa-li"><i class="fa fa-code" aria-hidden="true"></i></span>
 With my day to day more data engineering and less analysis, my language of choice has moved to Python.
 I still root for R and believe it's dataframe implementation is far more pleasant than Pandas, but a general
-purpose language for ETL it is not. I'm currently, especially skilled in event based pipelines, using Python,
+purpose language for ETL it is not. I'm currently especially skilled in event based pipelines using Python,
 AWS, terraform, and Docker.
 <br>
 My research topics have moved strongly towards opensource LLMs. I believe these hold substantial promise 
